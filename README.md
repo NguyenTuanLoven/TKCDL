@@ -97,5 +97,4 @@ Luồng tráng: CREATED → CONFIRMED → RECEIVED → DEVELOPING → SCANNING (
 
 Vai trò SQL film_app chỉ được gọi các thủ tục chỉ định; film_payment_service mới được ghi nhận thanh toán thành công. CallerId/CustomerId phải lấy từ danh tính đã xác thực ở backend. SQL demo không tự triển khai JWT/OAuth, tenant-aware read API, webhook signature hoặc URL ảnh có hạn. Không cấp role app cho người dùng cuối; không đưa tài khoản sa, mật khẩu, API key hoặc file .mdf/.ldf lên GitHub.
 
-Repo có họ tên/MSSV do nhóm cung cấp, nên ưu tiên Private và mời giảng viên theo yêu cầu môn học.
 
