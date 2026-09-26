@@ -1,6 +1,6 @@
 # FilmLab Connect — Bài tập nhóm Thiết kế cơ sở dữ liệu
 
-**Nhóm:** Số 7   
+**Nhóm:** Nguyễn Hữu Anh Tuấn
 **Giảng viên:** Nguyễn Văn Chiến
 
 Thiết kế cơ sở dữ liệu cho nền tảng kết nối người chụp film với Film Lab. Phần code sử dụng **Microsoft SQL Server (T-SQL)**, hỗ trợ quản lý người dùng, dịch vụ, đơn hàng, cuộn film, ảnh scan, thanh toán và các dữ liệu cộng đồng.
